@@ -2,6 +2,7 @@
 
 ## CPU information
 
+```
 processor	: 3
 model name	: ARMv7 Processor rev 4 (v7l)
 BogoMIPS	: 38.40
@@ -16,6 +17,7 @@ Hardware	: BCM2835
 Revision	: a22082
 Serial		: 000000002de95cb6
 Model		: Raspberry Pi 3 Model B Rev 1.2
+```
 
 --- 
 
